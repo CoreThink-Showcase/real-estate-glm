@@ -1,5 +1,12 @@
 # Real Estate Comparison AI
 
+## Prompt
+
+### "I’m looking to buy a house and want an AI to help compare listings and explain tradeoffs. Can you create a React frontend where users chat and view summarized property details?"
+
+<img width="1440" height="753" alt="image" src="https://github.com/user-attachments/assets/db7088af-e8cb-478c-a202-efcc174491bd" />
+
+
 A minimal React + TypeScript frontend for an AI that helps compare house listings and explain tradeoffs.
 
 ## Features
